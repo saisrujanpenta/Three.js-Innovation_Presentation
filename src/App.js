@@ -97,7 +97,7 @@ function App() {
           
           <h2 style={{ position: 'absolute', top: '550vh', left: '50%', transform: `translate(-50%,-50%)` }}>THANK YOU SO MUCH</h2>              
           
-          <a href="https://www.saisrujanpenta.com/" ><button style={{ position: 'absolute', top: `590vh`,left: '50%', transform: `translate(-50%,-50%)`, cursor: 'pointer' }} type="button">VIEW PROJECT</button></a>
+          <a href="https://github.com/saisrujanpenta/Three.js-Innovation_Presentation.git" ><button style={{ position: 'absolute', top: `590vh`,left: '50%', transform: `translate(-50%,-50%)`, cursor: 'pointer' }} type="button">VIEW PROJECT</button></a>
         </Scroll>
       </ScrollControls>
     </>
